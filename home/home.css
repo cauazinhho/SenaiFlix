@@ -122,30 +122,3 @@ button, input, select {
     margin-right: 10px;
     border-radius: 7px;
 }
-
-footer{
-    padding-top: 40px;
-    padding-bottom: 40px;
-    width: 100%;
-    height: auto;
-    background-color: #ffffff;
-    display: flex;
-    justify-content: center;
-    gap: 50px;
-    align-items: center;
-}
-
-footer p{
-    color: #000000;
-    margin-bottom: 10px;
-}
-
-.imgs {
-    display: flex;
-}
-
-img{
-    width: 30px;
-    margin-right: 10px;
-    margin-left: 10px;
-}
